@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "gstmanager-ExtraLight";
+    src: url("../fonts/Nunito/Nunito-ExtraLight.ttf");
+    font-weight: 100;
+}
+@font-face {
+    font-family: "gstmanager-Light";
+    src: url("../fonts/Nunito/Nunito-Light.ttf");
+    font-weight: 300;
+}
+@font-face {
+    font-family: "gstmanager-Regular";
+    src: url("../fonts/Nunito/Nunito-Regular.ttf");
+    font-weight: 200;
+}
+@font-face {
+    font-family: "gstmanager-SemiBold";
+    src: url("../fonts/Nunito/Nunito-SemiBold.ttf");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "gstmanager-Black";
+    src: url("../fonts/Nunito/Nunito-Bold.ttf");
+    font-weight: 700;
+}
+$gstmanager-ExtraLight: 'gstmanager-ExtraLight';
+$gstmanager-Light: 'gstmanager-Light';
+$gstmanager-Regular: 'gstmanager-Regular';
+$gstmanager-SemiBold: 'gstmanager-SemiBold';
+$gstmanager-Black: 'gstmanager-Black';
+
+
+
+
+
